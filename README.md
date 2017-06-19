@@ -1,6 +1,6 @@
 # AndroidUtils
 Android工具类
-#### Step 1.依赖banner
+#### 依赖banner
 Gradle 
 ```groovy
 dependencies {
